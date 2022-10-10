@@ -1,1 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>TITLE</title>
+    </head>
+    <body>
+        <header>
+            <h1 style="color:white;text-align:center;background:linear-gradient(to right,red,orange,yellow)"><bold>主題</bold></h1>
+        </header>
+        <nav class="menu">
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav
 
+        <article>
+          <p>
+            2022苗栗縣長選戰國民黨呈現分裂態勢
+            <br/>議長鍾東錦不甩黨紀脫黨參選
+            <br/>硬槓國民黨推出的參選人謝福弘
+            <br/>謝福弘近來強調「正藍軍」色彩
+            <br/>不僅邀請前總統馬英九拜票
+            <br/>今(10)日更釋出與前高雄市長韓國瑜合體影片。
+          </p>
+        </article>
+        <footer>
+            <p style="text-align:center;">&copy; CCU programmer410410081</p>
+        </footer>
+    </body>
+</html>
